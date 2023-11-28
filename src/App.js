@@ -63,6 +63,7 @@ function App() {
 
   return (
     <div className="App">
+      <h2>Enter Values</h2>
       <div className="input-container">
         <div>
           <label htmlFor="inputValue">Input Value:</label>
